@@ -23,13 +23,17 @@ The goal is to create a Babylon.js application that allows the user to draw arbi
 ![image](https://github.com/Akshaya-TL/2D-ShapeExtrusion-Manipulation/assets/72205755/14fb2135-6503-46c2-b1cd-1b67ca2e3b13)
 
 2. Draw 2D shapes on the ground with mose interactions
-<video src='https://github.com/Akshaya-TL/2D-ShapeExtrusion-Manipulation/assets/72205755/e8ebf363-42a5-49ff-8ae9-6e6cc68aa96f' width=180> </video>
+<!--- <video src='https://github.com/Akshaya-TL/2D-ShapeExtrusion-Manipulation/assets/72205755/e8ebf363-42a5-49ff-8ae9-6e6cc68aa96f' width=180> </video> >-->
+![draw2DFeature](https://github.com/Akshaya-TL/2D-ShapeExtrusion-Manipulation/assets/72205755/eeabcdc5-be32-4c64-bebe-7e5bcefe92a7)
 
 3. Extrusion of 2D shapes to 3D
-<video src='https://github.com/Akshaya-TL/2D-ShapeExtrusion-Manipulation/assets/72205755/396eef89-83ee-496b-997f-50952142229f'> </video>
+<!--- <video src='https://github.com/Akshaya-TL/2D-ShapeExtrusion-Manipulation/assets/72205755/396eef89-83ee-496b-997f-50952142229f'> </video> -->
+![extrudeFeature](https://github.com/Akshaya-TL/2D-ShapeExtrusion-Manipulation/assets/72205755/3c0f2b76-f80f-4c43-b7dc-ba4599e2c9a9)
 
 4. Movement of extruded polygons with visual cues
-<video src='https://github.com/Akshaya-TL/2D-ShapeExtrusion-Manipulation/assets/72205755/d3b8a9ae-b415-4f07-a151-522932f476b9'> </video>
+<!--- <video src='https://github.com/Akshaya-TL/2D-ShapeExtrusion-Manipulation/assets/72205755/d3b8a9ae-b415-4f07-a151-522932f476b9'> </video> -->
+![Move3D](https://github.com/Akshaya-TL/2D-ShapeExtrusion-Manipulation/assets/72205755/d15efead-66ad-42be-a847-548ab84cbf47)
 
 5. Edit Vertices
-<video src='https://github.com/Akshaya-TL/2D-ShapeExtrusion-Manipulation/assets/72205755/192fc058-098e-4c56-9fdd-a1ef6de7c867'> </video>
+<!--- <video src='https://github.com/Akshaya-TL/2D-ShapeExtrusion-Manipulation/assets/72205755/192fc058-098e-4c56-9fdd-a1ef6de7c867'> </video> -->
+![VertexEdit](https://github.com/Akshaya-TL/2D-ShapeExtrusion-Manipulation/assets/72205755/f9fa0204-30ba-4b8d-bd6f-5b23e9a9a07c)
