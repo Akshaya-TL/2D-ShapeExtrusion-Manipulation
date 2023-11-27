@@ -1,4 +1,4 @@
-# 2D-ShapeExtrusion-Manipulation
+# 2D-Shape-Extrusion-Manipulation
 
 **Goal:** <br />
 The goal is to create a Babylon.js application that allows the user to draw arbitrary 2D shapes on the ground plane, extrude them into 3D objects with a fixed height, and then manipulate those objects by moving the object and editing their vertices using buttons for mode selection.
